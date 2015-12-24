@@ -1,5 +1,9 @@
 # Compiled
-*.elc
+*.bin
+*.bic
+*.o
+*.c
+*.so
 
 # Packaging
 .cask
