@@ -6,6 +6,5 @@ install mit-scheme on mac:
     brew install Caskroom/cask/xquartz
     brew install mit-scheme
     sudo brew link mit-scheme
-    
-then run `mit-scheme` to test the installation.
-    
+
+then run `scheme` or `mit-scheme` to test the installation.
