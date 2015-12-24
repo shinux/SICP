@@ -1,6 +1,6 @@
 # Compiled
 *.bin
-*.bic
+*.bci
 *.o
 *.c
 *.so
