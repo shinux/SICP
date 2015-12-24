@@ -1,4 +1,4 @@
-#| /usr/local/bin/scheme
+#|
 run file.scm file as a script: scheme <file.scm
 complie file.scm: (cf "file.scm") then (load "file.scm")
 try to avoid using script mode
@@ -19,3 +19,5 @@ compile it
 (sum-of-square 4 5)
 
 (f 5)
+
+;;; (+ (* (+ 5 1) (+ 5 1)) (* (* 5 2) (* 5 2))) but lisp take the Applicative Order
